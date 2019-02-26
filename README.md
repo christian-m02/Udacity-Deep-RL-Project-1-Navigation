@@ -35,7 +35,7 @@ available, corresponding to:
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes. 
 
 The ipython notebook contains the training and evaluation of the DQN, Double DQN and Dueling DQN Agents for performing this
-task. For a discussion of the findings and assessment of the agents see the report.pdf.
+task. For a discussion of the findings and assessment of the agents see the Report.pdf.
 
 
 
